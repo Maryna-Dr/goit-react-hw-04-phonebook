@@ -1,0 +1,12 @@
+.label {
+    display: flex;
+    flex-direction: column;
+
+    padding: 10px;
+    gap: 10px;
+}
+
+.field {
+    display: block;
+    width: 200px;
+}
